@@ -1,0 +1,62 @@
+# Copyright (C) 2014 Sami Keijonen
+# This file is distributed under the GNU General Public License v2 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Scrollr 1.0.4\n"
+"Report-Msgid-Bugs-To: https://foxnet-themes.fi/contact/\n"
+"POT-Creation-Date: 2023-11-13 11:39+0100\n"
+"PO-Revision-Date: 2017-05-26 21:49+0200\n"
+"Last-Translator: Sloba <sloooba@yahoo.com>\n"
+"Language-Team: maxPressy\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;esc_html_e;__ngettext:1,2;_n:1,2;"
+"__ngettext_noop:1,2;_n_noop:1,2;_nc:4c,1,2;_x:1,2c;"
+"_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;esc_html__;esc_attr__\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: node_modules\n"
+"X-Poedit-SearchPathExcluded-1: library\n"
+
+#: scrollr.php:53
+msgid "Back to top"
+msgstr ""
+
+#, fuzzy
+#~ msgid "Outside of article wagons"
+#~ msgstr "Amplios artículos de contenido"
+
+#, fuzzy
+#~ msgid " Tags:"
+#~ msgstr "Etiquetas:"
+
+#, fuzzy
+#~ msgid " Filed under:"
+#~ msgstr "archivado en"
+
+#~ msgid "<span>No</span> Comments"
+#~ msgstr "<span>Sin</span> Comentarios"
+
+#~ msgid "Filed under: %1$s"
+#~ msgstr "Archivado en: %1$s"
+
+#~ msgid "%s"
+#~ msgstr "%s"
+
+#~ msgid "Search …"
+#~ msgstr "Buscar ..."
+
+#~ msgctxt "%2$s is for Home in breadcrumbs"
+#~ msgid "%1$s %2$s %3$s"
+#~ msgstr "%1$s Inicio %3$s"
+
+#~ msgctxt "Post Type General Name"
+#~ msgid "Wide content articles"
+#~ msgstr "Amplios artículos de contenido"
